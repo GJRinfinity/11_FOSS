@@ -1,4 +1,5 @@
 #!/bin/bash
+#comment1
 echo "enter the first string"
 read STR
 echo "enter the second string"
